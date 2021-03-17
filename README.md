@@ -1,4 +1,4 @@
-# AIRNOW-UTILITIES
+# AirNow Utilities
  
 ## airnow_defs.py
 
