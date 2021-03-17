@@ -11,4 +11,5 @@ Send an API request to AirNow to retrieve contours of the current hourly air qua
 ## Results
 
 The web map application display of the results of this code can be found at the following link:
+
 [Atlas Studio - United States Wildfire and Air Quality Map](https://www.atlasstud.io/usa-wildfire-air-quality)
